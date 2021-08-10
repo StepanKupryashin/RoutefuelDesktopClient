@@ -6,7 +6,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:RF"
         mc:Ignorable="d"
-        Title="RouteFuel" Height="720" Width="1440">
+        Title="RouteFuel" Height="720" Width="1440" Icon="/Копия файла _strelki (1).png">
     <DockPanel>
         <wv2:WebView2 Name="webView"
                   Source="https://www.routefuel.icu" Panel.ZIndex="12"
